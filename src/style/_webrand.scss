@@ -1,0 +1,33 @@
+.webrand{
+    background: url(../images/webrand/Rectangle11.png);
+    .webrand-img{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 74px;
+     
+    }
+    .dich{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 60px;
+    
+        font-family: Playfair Display;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    }
+    &-text-line{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+    .webrand-img-box{
+        margin-left: 30px;
+    }
+     
+    
+    }

@@ -1,0 +1,143 @@
+.header{
+    background: url(../images/header/header.png);
+     width: 100%;
+    .box{
+  
+  
+     }
+      .text-port{
+         display: flex;
+       
+      }
+      .p{
+          margin-left: 405px;
+          font-family: Post No Bills Jaffna;
+          font-style: normal;
+          font-weight: bold;
+          font-size: 36px;
+          line-height: 54px;
+      }
+      .smile{
+          margin-left: 489px;
+          display: flex;
+          align-items: center;
+          font-style: normal;
+  list-style: none;
+  padding: 31px 20px 31px 20px;
+      }
+      .silka-smile{
+          text-decoration: none;
+          font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+      }
+      .lupa{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-left:61px;
+          
+      }
+     .jony{
+         margin-left: 40px;
+         margin-right: 40px;
+     }
+     .forel{
+         margin-left: 44px;
+     }
+     .piba{
+        
+     }
+     .w{
+         align-items: center;
+  
+     }
+  }
+  
+  _kolec.scss
+  
+  .kolec2018{
+  background: url(../images/time-8/черныйфон.png);
+    width: 100vw; 
+  .pos{
+         border: 2px solid;
+         font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  list-style: none;
+  width: 10vw;
+  
+     } 
+     .colec-text-polsha{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+     }
+     .pos-silka{
+        text-decoration:none;
+        color: #FFFFFF;
+     }
+     .kolec-text{
+       margin-bottom: 20px;
+      margin-left:880px ;
+     }
+     .body{
+       display: flex;
+     }
+     .text2018-line{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       margin-bottom: 40px;
+     }
+     .pos-silka-text{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+     }
+     .kolec-ptext{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+     }
+     .colec-text{
+        
+      align-items: center;
+      color: blanchedalmond;
+     
+     }
+     .shrek{
+      font-family: PT Sans;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 150%;
+      /* or 21px */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-left: 15%;
+      width: 50%;
+     }
+     .text2018{
+      font-family: Playfair Display;
+      font-size: 36px;
+      line-height: 42px;
+      text-align: center;
+      text-transform: uppercase;
+      padding-top:17% ;
+      
+     }
+     .linia{
+        align-items: center;
+        justify-content: center;
+     }
+  }

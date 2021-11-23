@@ -1,0 +1,105 @@
+.footer{
+    background: url(../images/webrand/footer.png);
+    width:98vw;
+    height:19vw;
+    &__box{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    &__text{
+        font-family: Playfair Display;
+font-size: 24px;
+line-height: 28px;
+text-transform: uppercase;
+width: 33%;
+    }
+    &__text-2{
+       
+    }
+    .silka{
+       
+    }
+    .lop{
+        display: flex;
+       
+      
+    }
+    .glorp{
+        display: flex;
+        
+    }
+.katalog{
+  
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+  list-style: none;
+}
+.nez{
+    font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 100%;
+}
+.shrek{
+    background: rgba(255, 255, 255, 0.4);
+}
+.sublimit{
+    background: #0F0F0F;
+    font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+height: 42px;
+
+}
+.email-adrec{
+    width: 202px;
+    height: 34px;
+}
+    .telo-1{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: gray;
+        text-decoration: none;
+        margin-bottom: 20px;
+        margin-left: 20px;
+    }
+    .kedr{
+        font-family: Playfair Display;
+font-size: 24px;
+line-height: 28px;
+text-transform: uppercase;
+    }
+    .gopn{
+        font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+width: 52%;
+    }
+    .footer-telo-1{
+        text-decoration: none;
+        font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #D0D0D0;
+    }
+    .categoria{
+        display: flex;
+        align-items: center;
+    }
+    &__text-2{
+       margin-right: 5%;
+    }
+}
